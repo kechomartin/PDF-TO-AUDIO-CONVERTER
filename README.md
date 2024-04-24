@@ -12,7 +12,7 @@ This project is a PDF to audio converter that converts text from PDF documents i
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/kech0/PDF-TO-AUDIO-CONVERTER.git
 
 2. Install dependencies:
 
